@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+.slider{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1700px;
+}
+
+.img-fluid{
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+}
+
+.principal{
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 35px;
+}
