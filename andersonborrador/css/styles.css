@@ -9,6 +9,14 @@
     text-shadow: 2px 2px 2px black;
     
 }
+h1{
+    text-align: center;
+    
+}
+.p-texto{
+    text-align: justify;
+    margin: 20px 100px 150px 100px;
+}
 .main{
     background-color: red;
     border-radius: 10px;
