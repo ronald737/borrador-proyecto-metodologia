@@ -1,0 +1,25 @@
+
+
+.titulo-1{
+    color: #101114;
+    font-family: 'lato'
+    font-size: 1em;
+    
+    text-transform: uppercase;
+    
+
+}
+
+
+.titulo-2{
+    font-size: 1.5em;
+    color: rgb(255, 0, 0);
+    font-family: 'lato'
+}
+
+
+.parrafo-nosotros{
+    font-family: 'roboto', cursive;
+    text-align: justify;
+
+}
