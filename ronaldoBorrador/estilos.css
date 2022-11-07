@@ -1,103 +1,110 @@
-.nav{
-    width: 100%;
-    background-color: rgb(30, 150, 150);
-    display: flex;
-    align-items: center;
-    justify-content: end;
-    
+h5{
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
 }
-.logo{
-    font-size: 40px;
-    font-family: 'open sans';
-    color: black;
-    font-weight: 100;
-    margin-left: 20px;
-    text-align: left;
-    
+.columna1{
+    border: 5px solid #E8E7E7;
 }
-.menu{
-    display: flex;
-    
+.columna2{
+    border: 5px solid #E8E7E7;
 }
-.nav ul li{
-    list-style-type: none;
+.columna3{
+    border: 5px solid #E8E7E7;
 }
-
-.nav li a {
-    color: white;
-    
-    font-weight: bold;
-    font-family: 'open sans';
+.columna4{
+    border: 5px solid #E8E7E7;
+}
+.columna5{
+    border: 5px solid #E8E7E7;
+}
+.columna6{
+    border: 5px solid #E8E7E7;
+}
+.btn-face{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 100px;
+    right: 30px;
+    background: #317CC6;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-face:hover{
     text-decoration: none;
+    color: #317CC6;
+    background: #fff;
+  }
+
+/* estilo anderson */
+
+  h1{
+    text-align: center;
+    color: rgb(16, 72, 110);
+    
+}
+.p-texto{
+    text-align: justify;
+    margin: 20px 300px 150px 300px;
+}
+.titulo1{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.texto1{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color: rgb(101, 163, 204);
+}
+.p1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+.titulo2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.texto2{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color:  rgb(101, 163, 204);
+}
+.p2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.titulo3{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.texto3{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color:  rgb(101, 163, 204);
+}
+.p3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
 }
 
-.ct-card::before {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    content: '';
-    display: block;
-    background: linear-gradient(to bottom, rgba(28, 28, 28, 0) 15%, #1f1f1f 100%);
-    z-index: 8;
-}
-element.style {
-    height: 286.047px;
-}
-.containerGrid_Escuela .ct-card--hero .ct-card__body {
-    padding-left: 35px;
-}
-@media screen and (max-width: 1250px)
-.ct-card--hero .ct-card__body, .ct-card--hero-active .ct-card__body {
-    padding: 25px;
-}
-.containerGrid_Escuela .ct-card__body {
-    width: 250px;
-}
-@media only screen and (min-width: 640px)
-.ct-card--hero .ct-card__body, .ct-card--hero-active .ct-card__body {
-    min-height: 230px;
-    padding: 45px;
-    width: 85%;
-}
-.ct-card--hero .ct-card__body, .ct-card--hero-active .ct-card__body {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    min-height: 174px;
-    padding: 14px;
-    width: 100%;
-}
-.ct-card__body {
-    padding: 40px;
-    white-space: normal;
-}
-* {
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    box-sizing: inherit;
+/* barra de navegacion izquierda */
+#contenido{
+    width: 1000px;
+    height:500px ;
+    float: right;
 }
 
-user agent stylesheet
-div {
-    display: block;
-}
-.containerGrid_Escuela ul li {
-    width: 33.33333%;
+aside{
+    width: 100px;
+    height: 500px;
+    margin-top: 10px;
     float: left;
-    list-style: none;
-}
-user agent stylesheet
-li {
-    text-align: -webkit-match-parent;
-}
-ol, ul {
-    overflow-wrap: break-word;
-}
-ul {
-    list-style: none;
-}
-user agent stylesheet
-ul {
-    list-style-type: disc;
 }
