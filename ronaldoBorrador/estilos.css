@@ -97,14 +97,21 @@ h5{
 
 /* barra de navegacion izquierda */
 #contenido{
-    width: 1000px;
+    width: 1800px;
     height:500px ;
     float: right;
 }
 
 aside{
-    width: 100px;
-    height: 500px;
-    margin-top: 10px;
-    float: left;
+    width: 200px;
+    height: 2000px;
+    margin: 10px;
+    /* float: left; */
+    background: red;
+    
+}
+.navegacion{
+    text-decoration: none;
+    text-align: center;
+    display: block;
 }
