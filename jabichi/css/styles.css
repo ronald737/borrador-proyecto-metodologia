@@ -23,6 +23,26 @@ div.d-none a{
     margin-right: 300px;
     padding: 35px;
 }
+section.new{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.columnas{
+    padding: 30px;
+}
+.imgl{
+    width: 500px;
+    height: 230px;
+    display: block;
+    text-align: center;
+    margin-bottom: 5px;
+}
+nav{
+    background: transparent;
+}
 footer{
     background: rgb(59, 49, 197);
     height: auto;
@@ -84,3 +104,4 @@ footer{
     text-transform: uppercase;
     opacity: .5;
 }
+
