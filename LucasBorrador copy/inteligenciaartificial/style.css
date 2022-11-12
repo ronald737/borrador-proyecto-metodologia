@@ -1,0 +1,27 @@
+
+h1{
+    margin-left: 150px;
+    margin-top: 50px;
+    color: #4387D9;
+}
+img{
+    margin-left: 80px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.entradas{
+    margin-left: 950px;
+    font-size: 12px;
+    margin-bottom: 400px;
+}
+a{
+    color: black;
+}
+h2{
+    font-size: 12px;
+}
+.sala{
+    display: block;
+    margin-right: 10px ;
+}
