@@ -97,3 +97,9 @@ h5{
 
 /* barra de navegacion izquierda */
 
+.link-1{
+    text-decoration: none;
+    color: black;
+    font-family: "roboto";
+}
+
