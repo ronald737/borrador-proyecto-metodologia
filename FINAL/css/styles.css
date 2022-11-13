@@ -22,17 +22,7 @@
     border-radius: 20px;
     margin-bottom: 50px;
 }
-.titulo-slider{
-    font-family: 'Lato', sans-serif;
-    color: white;
-    text-shadow: 2px 2px 2px black;
-}
-.parrafo-slider{
-    font-family: 'Nunito', sans-serif;
-    color: white;
-    text-shadow: 2px 2px 2px black;
-    
-}
+
 h1{
     text-align: center;
     color: rgb(101, 163, 204);
