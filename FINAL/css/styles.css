@@ -1,0 +1,251 @@
+/* anderson  */
+.fondo1{
+    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(../img/fondoIA.jpg);
+    padding: 80px 150px 50px 150px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+.fondo2{
+    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(../img/fondoRV.jpg);
+    padding: 80px 150px 50px 150px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.fondo3{
+    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(../img/fondoIOT.jpg);
+    padding: 80px 10px 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+   
+}
+.titulo-slider{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.parrafo-slider{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(101, 163, 204);
+    
+}
+
+.main{
+    background-color: rgb(101, 163, 204);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+}
+.titulo_1{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.texto1{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color: rgb(101, 163, 204);
+}
+.p1, .p2, .p3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+}
+.img-fluid{
+    border-radius: 20px;
+   
+
+}
+.titulo_2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.texto2{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color:  rgb(101, 163, 204);
+}
+
+.titulo_3{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.texto3{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;   
+    color:  rgb(101, 163, 204);
+}
+.main1{
+    margin-bottom: 50px;
+    color: white;
+}
+.main2{
+    margin-bottom: 50px;
+    color: white;
+    
+}
+.main3{
+    margin-bottom: 50px;
+    color: white;
+}
+/* bruno */
+@font-face {
+    font-family: "Poppins-Medium.ttf";
+    src: url("../font/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Light.ttf";
+    src: url("../font/Poppins-Light.ttf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenedor_menu{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../img/fondo.png");
+    height: 100vh;
+    background-size: cover;
+    color: black;
+}
+
+.contenedor_texto_presentacion{
+    color: white;
+}
+
+.contenedor_form{
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+}
+
+.titulo_texto{
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.titulo_texto h3{
+    font-family: "Poppins-Medium.ttf";
+}
+
+.titulo_texto p{
+    font-family: "Poppins-Light.ttf";
+}
+
+input{
+    background: transparent !important;
+}
+
+textarea{
+    background: transparent !important;
+}
+
+
+.contenedor_iconos{
+    width: 100%;
+    height: 140px;
+    background-color: #543477;
+    color: white;
+    margin: 0 !important;
+    font-family: "Poppins-Medium.ttf";
+}
+
+.icono_info h3{
+    font-weight: 600;
+    font-size: 23px;
+}
+
+.icono{
+    padding: 0 40px;
+}
+
+i{
+    font-size: 18px;
+    color: aqua;
+    padding:  0 15px;
+}
+
+.graduacion{
+    margin: 0 !important;
+}
+
+.pie_pagina{
+    padding: 20px 0px;
+    width: 100%;
+    height: auto;
+    background-color: #b7b5b1;
+}
+
+.pie_pagina .redes_sociales{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.pie_pagina .redes_sociales i{
+    color: black;
+    font-size: 30px;
+    padding: 0px 25px;
+}
+
+.pie_pagina .pie_texto{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+.titulo1{
+    color: #543477;
+    font-size: 30px;
+    font-family:"Poppins-Medium.ttf"; 
+
+}
+
+.titulo2{
+    color: #543477;
+    font-size: 20px;
+    font-family:"Poppins-Medium.ttf"; 
+}
+
+.parrafo2{
+    color: #543477;
+    font-size: 20px;
+    font-family:"Poppins-Medium.ttf"; 
+}
+.titulo-1{
+    color: #101114;
+    font-family: 'lato';
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
+
+.titulo-2{
+    font-size: 1.5em;
+    color: rgb(255, 0, 0);
+    font-family: 'lato'
+}
+
+
+.parrafo-nosotros{
+    font-family: 'roboto', cursive;
+    text-align: justify;
+
+}
