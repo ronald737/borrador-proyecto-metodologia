@@ -18,7 +18,7 @@
 .fondo3{
     background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
     url(../img/fondoIOT.jpg);
-    padding: 80px 10px 10px 20px;
+    padding: 80px 10px 50px 20px;
     border-radius: 20px;
     margin-bottom: 50px;
 }
@@ -83,18 +83,13 @@ h1{
     font-size: 30px;   
     color:  rgb(101, 163, 204);
 }
-.main1{
+.main1, .main2, .main3{
     margin-bottom: 50px;
     color: white;
 }
-.main2{
+.cuadro1{
     margin-bottom: 50px;
-    color: white;
-    
-}
-.main3{
-    margin-bottom: 50px;
-    color: white;
+    padding-top: 10px;
 }
 /* bruno */
 @font-face {
