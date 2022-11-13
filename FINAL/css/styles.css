@@ -368,4 +368,12 @@ footer{
     font-family: "roboto";
     
 
+
 }
+
+html{
+    scroll-behavior: smooth;
+
+}
+/*final de navegacion izquierda
+
