@@ -187,7 +187,7 @@ i{
     margin: 0 !important;
 }
 
-.pie_pagina{
+/* .pie_pagina{
     padding: 20px 0px;
     width: 100%;
     height: auto;
@@ -208,7 +208,7 @@ i{
 .pie_pagina .pie_texto{
     text-align: center;
     font-size: 13px;
-}
+} */
 
 
 .titulo1{
@@ -289,3 +289,67 @@ i{
     color: #317CC6;
     background: #fff;
   }
+
+  /* PIE DE PÁGINA  */
+
+footer{
+    background: rgb(59, 49, 197);
+    height: auto;
+    width: 100vw;
+    padding-top: 50px;
+    color: white;
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+}
+.redes{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.redes li{
+    margin: 0 10px;
+}
+.redes a{
+    text-decoration: none;
+    color: black;
+}
+.redes a i{
+    font-size: 1.1rem;
+}
+.redes a:hover i{
+    color: black;
+}
+.footer-bottom{
+    background: black;
+    max-width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: .5;
+}
