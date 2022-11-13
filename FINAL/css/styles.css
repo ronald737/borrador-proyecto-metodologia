@@ -356,3 +356,19 @@ footer{
 .cuadro1{
     border: 2px solid black;
 }
+
+
+/* barra de navegacion izquierda */
+
+.link-1{
+    text-decoration: none;
+    color: rgb(9, 5, 252);
+    font-family: "roboto";
+}
+.titulo-link{
+    text-decoration: none;
+    color: black;
+    font-family: "roboto";
+    
+
+}
