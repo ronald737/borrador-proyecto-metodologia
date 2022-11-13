@@ -148,7 +148,10 @@ input{
 
 textarea{
     background: transparent !important;
+    width: 300px;
+    max-height: 150px;
 }
+
 
 
 .contenedor_iconos{
@@ -370,5 +373,11 @@ html{
     scroll-behavior: smooth;
 
 }
+
+.controls{
+    color: white;
+}
 /*final de navegacion izquierda
+
+
 

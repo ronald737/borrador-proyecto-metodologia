@@ -49,6 +49,7 @@ h5{
   }
   .cuadro1{
     border: 5px solid black;
+    padding-bottom: 10px;
   }
   .prueba{
     display: block;
