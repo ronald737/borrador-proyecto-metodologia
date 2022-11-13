@@ -373,4 +373,8 @@ footer{
 
 }
 
+html{
+    scroll-behavior: smooth;
+
+}
 /*final de navegacion izquierda
