@@ -5,7 +5,9 @@ h1{
     color: #4387D9;
 }
 img{
+    display: block;
     border-radius: 10px;
+    margin-left: 60px;
 }
 
 .entradas{
@@ -17,13 +19,31 @@ a{
     color: black;
 }
 h2{
-    font-size: 12px;
+    font-size: 25px;
     margin-left: 200px;
+    text-align: left;   
+}
+.titulo1{
+    color: #4387D9;
+    font-size: 40px;
+}
+.entrada{
+    font-size: 15px;
+    margin-top: 60px;
 }
 .s{
     margin-top: 20px;
     margin-left: 200px;  
+    font-size: 14px;
 }
 .parrafo{
-    margin-left: 80px;
+    margin-left: 175px;
+}
+h3{
+    color: #4387D9;
+    font-size: 30px;
+    margin-left: 170px;
+}
+.cuadro1{
+    border: 2px solid black;
 }
