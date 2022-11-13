@@ -18,9 +18,10 @@
 .fondo3{
     background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
     url(../img/fondoIOT.jpg);
-    padding: 80px 150px 50px 150px;
+    padding: 80px 10px 10px 20px;
     border-radius: 20px;
     margin-bottom: 50px;
+   
 }
 .titulo-slider{
     font-family: 'Lato', sans-serif;
