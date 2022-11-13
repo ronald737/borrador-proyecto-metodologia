@@ -50,3 +50,22 @@ h5{
   .cuadro1{
     border: 5px solid black;
   }
+  .prueba{
+    display: block;
+    border: 2px solid black;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 800px;
+  }
+  .prueba2{
+    display: block;
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 800px;
+    margin-left: 650px;
+  }
+  .nose{
+    display: block;
+    margin-bottom: 200px; 
+    margin-left: 600px;
+  }
