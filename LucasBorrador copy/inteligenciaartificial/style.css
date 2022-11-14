@@ -42,3 +42,10 @@ h3{
 .cuadro1{
     border: 2px solid black;
 }
+img{
+    display: block;
+    height: 400px;
+    width: 1000px;
+    margin-left: 300px;
+    border-radius: 25px;
+}
