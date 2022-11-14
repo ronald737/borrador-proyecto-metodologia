@@ -1,6 +1,6 @@
-/* body{
+body{
     background-color: aliceblue;
-} */
+}
 section{
     background-color: white;
     margin-left: 200px;
@@ -77,14 +77,21 @@ footer{
 
 .link-1{
     text-decoration: none;
-    color: rgb(9, 5, 252);
+    color:blue;
     font-family: "roboto";
+    /* background-color: blue;
+    border: 2px 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+    bottom: 60px ; */
+    
+
+
 }
 .titulo-link{
     text-decoration: none;
     color: black;
     font-family: "roboto";
     
-
 }
 /* final de barra de navegacion izquierda */
