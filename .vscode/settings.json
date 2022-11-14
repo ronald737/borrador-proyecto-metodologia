@@ -1,4 +1,8 @@
 {
+<<<<<<< Updated upstream
     "liveServer.settings.port": 5501,
     "explorer.autoReveal": true
+=======
+    "liveServer.settings.port": 5502
+>>>>>>> Stashed changes
 }
