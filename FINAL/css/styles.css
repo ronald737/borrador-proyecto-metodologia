@@ -22,7 +22,9 @@
     border-radius: 20px;
     margin-bottom: 50px;
 }
-
+.fondo4{
+    background-image: url(../img/fondoestudiante.jpg);
+}
 h1{
     text-align: center;
     color: rgb(101, 163, 204);
@@ -85,6 +87,7 @@ h1{
     margin-top: 100px;
 }
 /* bruno */
+
 @font-face {
     font-family: "Poppins-Medium.ttf";
     src: url("../font/Poppins-Medium.ttf");
@@ -137,8 +140,12 @@ body{
 
 input{
     background: transparent !important;
+    color: yellow;
 }
 
+.nom{
+    color:white;
+}
 textarea{
     background: transparent !important;
     width: 300px;
@@ -252,6 +259,7 @@ i{
     box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
     z-index: 100;
   }
+
 .btn-wsp:hover{
     text-decoration: none;
     color: #0df053;
@@ -276,6 +284,33 @@ i{
     text-decoration: none;
     color: #317CC6;
     background: #fff;
+  }
+
+  .btn-ins{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 170px;
+    right: 30px;
+    background: #de32a5;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-ins i{
+    color: white;
+  }
+  .btn-ins:hover{
+    text-decoration: none;
+    color: #317CC6;
+    background: #fff;
+  }
+  i{
+    font-size: 27px;
   }
 
   /* PIE DE PÁGINA  */
