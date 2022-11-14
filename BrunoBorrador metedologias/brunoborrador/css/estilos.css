@@ -84,11 +84,6 @@ button{
     padding: 0 40px;
 }
 
-i{
-    font-size: 18px;
-    color: aqua;
-    padding:  0 15px;
-}
 
 .graduacion{
     margin: 0 !important;
@@ -146,4 +141,24 @@ i{
     color: #543477;
     font-size: 20px;
     font-family:"Poppins-Medium.ttf"; 
+}
+.img-fluid{
+    border-radius: 20px;
+ }
+
+ 
+ .boton{
+    text-decoration: none;
+    color:  #543477;
+    background-color:  rgba(84, 139, 184, 0.836); 
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.arrow{
+    
+    color: #543477;
+    padding: 2px;
+    border-radius: 15px;
 }
