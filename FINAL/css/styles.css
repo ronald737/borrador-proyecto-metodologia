@@ -108,7 +108,7 @@ body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../img/fondo.png");
     height: 100vh;
     background-size: cover;
-    color: black;
+    color: white;
 }
 
 .contenedor_texto_presentacion{
@@ -265,6 +265,9 @@ i{
     color: #0df053;
     background: #fff;
   }
+.prueba{
+    font-size: 30px;
+}
 .btn-face{
     position: fixed;
     width: 55px;
@@ -285,6 +288,10 @@ i{
     color: #317CC6;
     background: #fff;
   }
+.prueba2{
+    font-size: 27px;
+    text-align: center;
+}
 
   .btn-ins{
     position: fixed;
@@ -316,7 +323,7 @@ i{
   /* PIE DE PÁGINA  */
 
 footer{
-    background: rgb(59, 49, 197);
+    background:  rgb(101, 163, 204);
     height: auto;
     width: 98.7vw;
     padding-top: 50px;
