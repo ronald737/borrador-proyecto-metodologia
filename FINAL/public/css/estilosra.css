@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Poppins-Medium.ttf";
+    src: url("../font/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Poppins-Light.ttf";
+    src: url("../font/Poppins-Light.ttf");
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenedor_menu{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../img/imgRA/maestria-en-data-science-1400x676-1.jpg");
+    height: 100vh;
+    background-size: cover;
+    color: black;
+}
+
+.contenedor_texto_presentacion{
+    color: white;
+}
+
+.contenedor_form{
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+}
+
+.titulo_texto{
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.titulo_texto h3{
+    font-family: "Poppins-Medium.ttf";
+}
+
+.titulo_texto p{
+    font-family: "Poppins-Light.ttf";
+}
+
+input{
+    background: transparent !important;
+}
+
+textarea{
+    background: transparent !important;
+}
+
+button{
+    background: transparent !important;
+    border: 1px solid white !important;
+}
+
+.contenedor_iconos{
+    width: 100%;
+    height: 140px;
+    background-color: #543477;
+    color: white;
+    margin: 0 !important;
+    font-family: "Poppins-Medium.ttf";
+}
+
+.icono_info h3{
+    font-weight: 600;
+    font-size: 23px;
+}
+
+.icono{
+    padding: 0 40px;
+}
+
+i{
+    font-size: 27px;
+    color: aqua;
+    padding:  0 15px;
+}
+
+.graduacion{
+    margin: 0 !important;
+}
+
+.carrusel{
+    width: 100%;
+    height: 550px;
+    margin: auto;
+}
+
+.carousel-item img {
+    width: auto;
+    height: 550px;
+}
+
+.pie_pagina{
+    padding: 20px 0px;
+    width: 100%;
+    height: auto;
+    background-color: #9ca3aa;
+}
+
+.pie_pagina .redes_sociales{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.pie_pagina .redes_sociales i{
+    color: #575759;
+    font-size: 30px;
+    padding: 0px 25px;
+}
+
+.pie_pagina .pie_texto{
+    text-align: center;
+    font-size: 13px;
+}
+
+
+.titulo1{
+    color: #543477;
+    font-size: 30px;
+    font-family:"Poppins-Medium.ttf"; 
+
+}
+
+.titulo2{
+    color: #543477;
+    font-size: 20px;
+    font-family:"Poppins-Medium.ttf"; 
+}
+
+.parrafo2{
+    color: #9ca3aa;
+    font-size: 20px;
+    font-family:"Poppins-Medium.ttf"; 
+}
+
+.img-fluid{
+    border-radius: 20px;
+ }
+
+.boton2{
+    background: #543477;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.boton{
+    text-decoration: none;
+    color:  white; 
+    background-color:  #543477;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+.arrow{
+    
+    color: #543477;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.Beneficios_iconos{
+    width: 100%;
+    height: 140px;
+    color: #575759;
+    margin: 0 !important;
+    font-family: "Poppins-Medium.ttf";
+    background-color: white;
+    font-size: 15px;
+    
+}
+
+.Beneficios_iconos p {
+   color: #9ca3aa;
+   
+}
+
+.titulo3{
+    color: #543477;
+    font-size: 30px;
+    font-family:"Poppins-Medium.ttf"; 
+    display: 10px;
+
+}
+
+
+     
+
+.tercero {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.tercero p{
+    color: #575759;
+}
+.Beneficios_iconos i{
+    font-size: 30px;
+}
+.infodeiconos{
+    width: 50%;
+
+}
+.info h3{
+    font-size: 20px;
+
+}
+.pregunta{
+    
+    padding-left: 100px;
+
+}
+.pregunta li{
+    color: #9ca3aa;
+}
+.pregunta .titulo4{
+    color: #575759;
+    font-size: 20px;
+
+}
+
+.btn-wsp{
+
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 60px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-wsp i{
+    color: white
+  }
+  .btn-wsp:hover{
+    text-decoration: none;
+    color: #0df053;
+    background: #fff;
+  }
+  .btn-face{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 120px;
+    right: 30px;
+    background: #317CC6;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-face i{
+    color: white;
+  }
+  .btn-face:hover{
+    text-decoration: none;
+    color: #317CC6;
+    background: #fff;
+  }
+  .btn-ins{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 180px;
+    right: 30px;
+    background: #de32a5;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-ins i{
+    color: white;
+  }
+  .btn-ins:hover{
+    text-decoration: none;
+    color: #317CC6;
+    background: #fff;
+  }
+  .listado1 {
+    color:#9ca3aa;
+    padding-left: 30px;
+  }
