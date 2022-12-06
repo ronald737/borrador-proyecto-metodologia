@@ -71,3 +71,6 @@ footer{
 .derecha{
     color: red;
 }
+li{
+    text-decoration: underline;
+}
