@@ -8,6 +8,14 @@
     margin-top: 50px;
     
 }
+.IA{
+    transition: .4s;
+    filter: brightness(0.7) contrast(1.5);
+}
+.IA:hover{
+    transform: scale(1.1);
+    filter: brightness(1.0) contrast(1.5);
+}
 .fondo2{
     background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
     url(../img/fondoRV.jpg);
@@ -15,16 +23,39 @@
     border-radius: 20px;
     margin-bottom: 50px;
 }
+.RV{
+    transition: .4s;
+    filter: brightness(0.7) contrast(1.5);
+}
+.RV:hover{
+    transform: scale(1.1);
+    filter: brightness(1.1) contrast(1.5);
+}
 .fondo3{
     background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
     url(../img/fondoIOT.jpg);
     padding: 80px 10px 50px 20px;
     border-radius: 20px;
     margin-bottom: 50px;
+
 }
-.fondo4{
-    background-image: url(../img/fondoestudiante.jpg);
+.IOT{
+    transition: .4s;
+    filter: brightness(0.7) contrast(1.5);
 }
+.IOT:hover{
+    transform: scale(1.1);
+    filter: brightness(1.1) contrast(1.5);
+}
+.big-data{
+    transition: .4s;
+    filter: blur(1px) grayscale(0.1);
+}
+.big-data:hover{
+    transform: scale(1.1);
+     filter: opacity(1) saturate(200%);
+}
+
 h1{
     text-align: center;
     color: rgb(101, 163, 204);  
