@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: aliceblue;
+}
 img{
     border-radius: 15px;
 }
@@ -85,4 +87,7 @@ footer{
 }
 .fondo1{
     background-color: aliceblue;
+}
+.baseletras{
+    background-color: white;
 }
