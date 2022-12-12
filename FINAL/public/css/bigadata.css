@@ -45,17 +45,18 @@ footer{
     justify-content: center;
     margin: 1rem 0 3rem 0;
 }
-.redes li{
+.redessocial li{
     margin: 0 10px;
 }
-.redes a{
+.redessocial a{
     text-decoration: none;
     color: black;
 }
-.redes a i{
+.redessocial a i{
     font-size: 1.1rem;
+    padding: 15px;
 }
-.redes a:hover i{
+.redessocial a:hover i{
     color: black;
 }
 .footer-bottom{
