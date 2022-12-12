@@ -429,6 +429,7 @@ footer{
 }
 .redes a i{
     font-size: 1.1rem;
+    color: black;
 }
 .redes a:hover i{
     color: black;
