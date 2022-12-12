@@ -1,4 +1,4 @@
-/* *{
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -20,7 +20,7 @@ section{
 .img{
     border-radius: 15px;
 }
-*/
+
 footer{
     background: rgb(101, 163, 204);
     height: auto;
@@ -83,6 +83,9 @@ footer{
     text-transform: uppercase;
     opacity: .5; 
 }
+.letras{
+    background-color: white;
+}
 
 /* barra de navegacion izquierda 
 
@@ -106,10 +109,10 @@ footer{
     
 }*/
 
-.fondo1{
-    
+.fondo1{   
     background-color: aliceblue;
 }
+
  
 /* final de barra de navegacion izquierda */
 /* .baseletras{
@@ -201,5 +204,3 @@ img{
 }
 h3{
     color: rgb(101, 163, 204);
-}
-
