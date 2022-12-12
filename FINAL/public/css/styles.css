@@ -455,13 +455,14 @@ footer{
 /* barra de navegacion izquierda */
 
 .link-1{
-    text-decoration: none;
-    color: rgb(9, 5, 252);
+    color: #0d6efd;
+    text-decoration: underline;
+    
     font-family: "roboto";
 }
 .titulo-link{
     text-decoration: none;
-    color: black;
+    color: rgb(101, 163, 204);
     font-family: "roboto";
     
 
@@ -484,6 +485,10 @@ footer{
 /* final de barra de navegacion izquierda */
 .baseletras{
     background-color: white;
+}
+
+img{
+    width: 95%;
 }
 
 

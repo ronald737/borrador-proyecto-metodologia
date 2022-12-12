@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -65,7 +65,7 @@ footer{
 }
 .redes a:hover i{
     color: white;
-}
+}*/
 .footer-bottom{
     background: black;
     width: 100vw;
@@ -79,14 +79,15 @@ footer{
 }
 .footer-bottom span{
     text-transform: uppercase;
-    opacity: .5;
+    opacity: .5; 
 }
+
 /* barra de navegacion izquierda */
 
-.link-1{
+/* .link-1{
     text-decoration: none;
     color:blue;
-    font-family: "roboto";
+    font-family: "roboto"; */
     /* background-color: blue;
     border: 2px 2px solid;
     border-radius: 5px;
@@ -95,7 +96,7 @@ footer{
     
 
 
-}
+/* }
 .titulo-link{
     text-decoration: none;
     color: black;
@@ -105,8 +106,82 @@ footer{
 
 .fondo1{
     background-color: aliceblue;
-}
+} */
 /* final de barra de navegacion izquierda */
-.baseletras{
+/* .baseletras{
     background-color: white;
+} */
+
+h1{
+     color: rgb(101, 163, 204);
 }
+
+.btn-wsp{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+
+.btn-wsp:hover{
+    text-decoration: none;
+    color: #0df053;
+    background: #fff;
+  }
+.prueba{
+    font-size: 30px;
+}
+.btn-face{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 100px;
+    right: 30px;
+    background: #317CC6;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+.btn-face:hover{
+    text-decoration: none;
+    color: #317CC6;
+    background: #fff;
+  }
+.prueba2{
+    font-size: 27px;
+    text-align: center;
+}
+
+  .btn-ins{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 170px;
+    right: 30px;
+    background: #de32a5;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+  }
+  .btn-ins i{
+    color: white;
+  }
+
+  
