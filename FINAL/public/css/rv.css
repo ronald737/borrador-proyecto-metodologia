@@ -1,26 +1,8 @@
-/* .fondo1{
-    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
-    url(../img/fondoIA.jpg);
-    padding: 80px 150px 50px 150px;
-    border-radius: 20px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    
+
+body{
+    background-color: aliceblue;
+
 }
-.fondo2{
-    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
-    url(../img/fondoRV.jpg);
-    padding: 80px 150px 50px 150px;
-    border-radius: 20px;
-    margin-bottom: 50px;
-}
-.fondo3{
-    background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
-    url(../img/fondoIOT.jpg);
-    padding: 80px 10px 50px 20px;
-    border-radius: 20px;
-    margin-bottom: 50px;
-} */
 
 h1{
     text-align: center;
@@ -37,6 +19,9 @@ section{
     
 }
 
+.img-fluid{
+    border-radius: 20px;
+}
 /* .main{
     background-color: rgb(101, 163, 204);
     border-radius: 10px;
@@ -178,7 +163,12 @@ html{
     scroll-behavior: smooth;
 }
 
-
+.fondo1{
+    background-color: aliceblue;
+}
+.baseletras{
+    background-color: white
+}
 
 /*final de navegacion izquierda
 
