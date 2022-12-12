@@ -133,13 +133,13 @@ h1{
     font-size: 30px;
     box-shadow: 0px 1px 10px rgba(0,0,0,0.3);
     z-index: 100;
-  }
+}
 
 .btn-wsp:hover{
     text-decoration: none;
     color: #0df053;
     background: #fff;
-  }
+}
 .prueba{
     font-size: 30px;
 }
