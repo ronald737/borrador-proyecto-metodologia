@@ -95,7 +95,7 @@ section{
 /* PIE DE PÁGINA  */
 
 footer{
-    background: rgb(59, 49, 197);
+    background:  rgb(101, 163, 204);
     height: auto;
     width: 98.7vw;
     padding-top: 50px;
@@ -136,6 +136,7 @@ footer{
 }
 .redes a i{
     font-size: 1.1rem;
+    padding: 15px;
 }
 .redes a:hover i{
     color: black;

@@ -56,6 +56,7 @@ footer{
 }
 .redes a i{
     font-size: 1.1rem;
+    padding: 15px;
 }
 .redes a:hover i{
     color: black;
