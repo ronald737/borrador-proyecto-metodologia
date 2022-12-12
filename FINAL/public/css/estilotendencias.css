@@ -103,15 +103,17 @@ footer{
     color: black;
     font-family: "roboto";
     
-}
+}*/
 
 .fondo1{
+    
     background-color: aliceblue;
+}
 } */
 /* final de barra de navegacion izquierda */
 /* .baseletras{
     background-color: white;
-} */
+} 
 
 h1{
      color: rgb(101, 163, 204);
@@ -200,4 +202,3 @@ h3{
     color: rgb(101, 163, 204);
 }
 
-  
