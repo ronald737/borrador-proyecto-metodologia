@@ -1,5 +1,5 @@
 /* anderson  */
-.fondo1{
+/* .fondo1{
     background-image:linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
     url(../img/fondoIA.jpg);
     padding: 80px 150px 50px 150px;
@@ -7,7 +7,7 @@
     margin-bottom: 50px;
     margin-top: 50px;
     
-}
+} */
 .IA{
     transition: .4s;
     filter: brightness(0.7) contrast(1.5);
@@ -468,15 +468,23 @@ footer{
 
 }
 
-html{
+/* html{
     scroll-behavior: smooth;
 
-}
+} */
 
 .controls{
     color: white;
 }
-/*final de navegacion izquierda
+/* /*final de navegacion izquierda* */
+
+.fondo1{
+    background-color: aliceblue;
+}
+/* final de barra de navegacion izquierda */
+.baseletras{
+    background-color: white;
+}
 
 
 

@@ -417,7 +417,13 @@ html{
 .controls{
     color: white;
 }
-/*final de navegacion izquierda
-
+/* /*final de navegacion izquierda */
+.fondo1{
+    background-color: aliceblue;
+}
+/* final de barra de navegacion izquierda */
+.baseletras{
+    background-color: white;
+}
 
 
