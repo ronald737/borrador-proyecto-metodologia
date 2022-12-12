@@ -19,6 +19,9 @@ section{
     
 }
 
+.img-fluid{
+    border-radius: 20px;
+}
 /* .main{
     background-color: rgb(101, 163, 204);
     border-radius: 10px;
